@@ -1,0 +1,1 @@
+I got partway through adding a login use case, but I did not know how it needed to be represented on the use case diagram off the top of my head. I don't feel like this is high priority though, best to handle implementation first.

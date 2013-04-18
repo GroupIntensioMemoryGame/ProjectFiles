@@ -1,0 +1,1 @@
+All of these files need to use a standard format, see the approved folder for what I decided on. Also, duplicate files and unneeded files should be deleted.

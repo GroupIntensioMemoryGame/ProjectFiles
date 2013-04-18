@@ -1,0 +1,2 @@
+DesignModel.jpeg
+Design models have to include the methods and data types. Also, a colon before the class name denotes an object - design models and object models are not the same thing! Probably not worth the effort to finish now, just reverse engineer it after implementation is completed.
